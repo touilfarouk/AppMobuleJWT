@@ -25,7 +25,7 @@ import javax.inject.Singleton
 @InstallIn(SingletonComponent::class)
 object AppModule {
 
-    private const val IP_URL = "https://dgl.bneder.dz/ip.json"
+    private const val IP_URL = ""
 
     @Provides
     @Singleton
